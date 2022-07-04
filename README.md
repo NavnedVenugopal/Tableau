@@ -1,2 +1,2 @@
 # Tableau
-Tablea for solving and evaluaiong problems.
+Tablea for solving and evaluating problems.
